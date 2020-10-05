@@ -2,8 +2,9 @@
 Created on Sun Oct  4 10:48:21 2020
 
 @author: Christian Caro - 20181020027
-@author: Neider Puentes - 20172020
+@author: Neider Puentes - 20172021307
 @author: Santiago Rios - 2018020027
+
 """
 from calculadora import calculadora
 import unittest

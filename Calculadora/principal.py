@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Oct  4 10:22:34 2020
+
 @author: Christian Caro - 20181020027
-@author: Neider Puentes - 20172020
+@author: Neider Puentes - 20172021307
 @author: Santiago Rios - 2018020027
+
 """
 
 from calculadora import calculadora
@@ -13,7 +15,7 @@ c = calculadora()
 def menu():
     print(" ")
     print ("** Calculadora ** \n")
-    print ("Seleccione una opción :") 
+    print ("Seleccione una opción :")
     print("1 Sumar")
     print("2 Restar ")
     print("3 multiplicar ")
@@ -39,7 +41,7 @@ while(True):
             print (c.restar(num1,num2))
         elif(opcion == 3):
             print("El resultado de la multiplicación es :")
-            print (c.multilplicar(num1,num2))               
+            print (c.multilplicar(num1,num2))
         elif(opcion == 4):
             print("El resultado de la divicion es :")
             print (c.dividir(num1,num2))
@@ -49,4 +51,3 @@ while(True):
         elif(opcion == 6):
             print("El resultado de la raiz es :")
             print (c.raizCuadrada(num1))
-            
