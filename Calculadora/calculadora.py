@@ -2,7 +2,6 @@
 """
 Created on Sun Oct  4 10:16:34 2020
 
-@author: Neider Puentes
 """
 import math
 
