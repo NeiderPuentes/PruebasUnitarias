@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Oct  4 10:16:34 2020
-
+@author: Christian Caro - 20181020027
+@author: Neider Puentes - 20172020
+@author: Santiago Rios - 2018020027
 """
 import math
 
