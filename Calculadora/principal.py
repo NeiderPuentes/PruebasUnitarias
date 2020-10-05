@@ -4,7 +4,7 @@ Created on Sun Oct  4 10:22:34 2020
 
 @author: Christian Caro - 20181020027
 @author: Neider Puentes - 20172021307
-@author: Santiago Rios - 2018020027
+@author: Santiago Rios - 2018020027 
 
 """
 
